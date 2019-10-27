@@ -1,11 +1,8 @@
-## Udemy-Introdu-o-LinguagemCSS
-![front-end](https://user-images.githubusercontent.com/14323599/67117543-56433680-f1b9-11e9-9ff5-b3078d2a2280.png)
+## Udemy-IntroducaoALinguagemCSS
+![app](https://github.com/nitaicharan/Udemy-IntroducaoALinguagemCSS/blob/master/app.png)
 
 ## Deploy
 ```
-### Requirements
-- HTML básico
-
 ng build
 index.html:base:"/" -> index.html:base:"/Udemy-IntroducaoALinguagemCSS/"
 cp dist/curso/index.html dist/curso/404.html
@@ -16,6 +13,14 @@ git push origin <branch>
 git push --delete origin gh-pages
 git subtree push --prefix dist/curso origin gh-pages
 ```
+## Informações sobre o curso
+Introdução à linguagem CSS
+<br>Aprenda os conceitos básicos da linguagem CSS
+
+URL: https://www.udemy.com/course/introducao-a-linguagem-css/
+
+### Requirements
+- HTML básico
 
 ### Description
 CSS (_Cascading Style Sheets_, que traduzido para o português significa "Folha de Estilo em Cascatas") é uma linguagem que facilita a aplicação de estilos a páginas de internet. Ela age em conjunto com as páginas HTML para fornecer websites com um melhor design. Neste curso você aprenderá os conceitos básicos da linguagem CSS. Matricule-se já!
